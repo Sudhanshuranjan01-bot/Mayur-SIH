@@ -1,0 +1,3 @@
+[functions.generate-cultural-image]
+verify_jwt = false
+entrypoint = "./functions/generate-cultural-image/index.ts"
